@@ -211,7 +211,7 @@ section .title::after{
 
 /* about section styling */
 .about .title::after{
-    content: "who we are";
+    content: "Who We Are";
 }
 .about .about-content .left{
     width: 45%;
@@ -265,7 +265,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "what we provide";
+    content: "What We Give";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -376,7 +376,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "what we look like";
+    content: "How We Look";
 }
 .teams .carousel .card{
     background: #222;
@@ -440,7 +440,7 @@ section .title::after{
 
 /* Works section styling */
 .works .title::after{
-    content: "what we do";
+    content: "What We Do";
 }
 .works .carousel .card{
     background: #222;
@@ -503,7 +503,7 @@ section .title::after{
 
 /* contact section styling */
 .contact .title::after{
-    content: "get in touch";
+    content: "Get In Touch";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
